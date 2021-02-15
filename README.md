@@ -113,7 +113,19 @@ Please refer to each project's style and contribution guidelines for submitting 
  4. **Push** your work back up to your fork
  5. Submit a **Pull request** so that we can review your changes
 
-NOTE: Be sure to merge the latest from "upstream" before making a pull request!     
+NOTE: Be sure to merge the latest from "upstream" before making a pull request!    
+
+## 
+
+#### AutoHotkey is a free
+```sh
+open-source custom scripting language for Microsoft Windows, 
+initially aimed at providing easy keyboard shortcuts or hotkeys,
+fast macro-creation and software automation that allows 
+users of most levels of computer skill to automate repetitive 
+tasks in any Windows application. Software genre: Scripting language
+Developer: Open-source software
+```
 
 <!-- Markdown link & img dfn's -->
 [wiki]: https://github.com/ARISTheGod/Privacy-HotKey/wiki
