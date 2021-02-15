@@ -1,14 +1,19 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Twitter][twitter-shield]][twitter-url]
+<!--[![License][license-shield]][license-url]-->
 # Windows Shortcut Privacy-HotKey
 > It Allows You To Minimize All Windows At Once And Muted You Playback-Sound and Stop-Playback-Media   
 > Tested On Windows 10
 
-  
 Now you can do your top secret stuff on your computer, and no one will notice it,   
 he or she, will think that you don't do anything on your computer,   
 you can use are tools to play games at work or watch P*** or top secret stuff    
 or do your tasks without customers/guests watching your screen on  work
 
-![](baner.png)
+<!--[![Product Name Screen Shot][product-screenshot]](https://github.com/ARISTheGod/Privacy-HotKey/)-->
 
 ## Installation
 
@@ -55,9 +60,10 @@ To Toggle Press F8
 
 ## Meta
 
-ARIS – [@arisaris3030](https://twitter.com/arisaris3030) – aris@aris.tk
+ARIS – [@arisaris3030](https://twitter.com/arisaris3030)
 
-[https://github.com/ARISTheGod/Privacy-HotKey/](https://github.com/ARISTheGod/Privacy-HotKey/)
+[https://github.com/ARISTheGod/Privacy-HotKey/](https://github.com/ARISTheGod/Privacy-HotKey/)     
+[https://aris.tk/](https://aris.tk/)
 
 ## Online Discussion
 
@@ -108,6 +114,20 @@ Please refer to each project's style and contribution guidelines for submitting 
 NOTE: Be sure to merge the latest from "upstream" before making a pull request!     
 
 <!-- Markdown link & img dfn's -->
-[travis-image]: https://travis-ci.com/ARISTheGod/Privacy-HotKey.svg
-[travis-url]: https://travis-ci.org/ARISTheGod/Privacy-HotKey
 [wiki]: https://github.com/ARISTheGod/Privacy-HotKey/wiki
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/ARISTheGod/Privacy-HotKey.svg?style=for-the-badge
+[contributors-url]: https://github.com/ARISTheGod/Privacy-HotKey/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ARISTheGod/Privacy-HotKey.svg?style=for-the-badge
+[forks-url]: https://github.com/ARISTheGod/Privacy-HotKey/network/members
+[stars-shield]: https://img.shields.io/github/stars/ARISTheGod/Privacy-HotKey.svg?style=for-the-badge
+[stars-url]: https://github.com/ARISTheGod/Privacy-HotKey/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ARISTheGod/Privacy-HotKey.svg?style=for-the-badge
+[issues-url]: https://github.com/ARISTheGod/Privacy-HotKey/issues
+[license-shield]: https://img.shields.io/github/license/ARISTheGod/Privacy-HotKey.svg?style=for-the-badge
+[license-url]: https://github.com/ARISTheGod/Privacy-HotKey/blob/master/LICENSE.txt
+[twitter-shield]: https://img.shields.io/twitter/follow/arisaris3030.svg?color=9cf&style=for-the-badge
+[twitter-url]: https://twitter.com/arisaris3030
+[product-screenshot]: images/screenshot.png
