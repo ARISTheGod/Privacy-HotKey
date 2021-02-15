@@ -2,7 +2,7 @@
 > It Allows You To Minimize All Windows At Once And Muted You Playback-Sound and Stop-Playback-Media   
 > Tested On Windows 10
 
-[![Build Status][travis-image]][travis-url]   
+  
 Now you can do your top secret stuff on your computer, and no one will notice it,   
 he or she, will think that you don't do anything on your computer,   
 you can use are tools to play games at work or watch P*** or top secret stuff    
