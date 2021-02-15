@@ -11,7 +11,7 @@
 Now you can do your top secret stuff on your computer, and no one will notice it,   
 he or she, will think that you don't do anything on your computer,   
 you can use are tools to play games at work or watch P*** or top secret stuff    
-or do your tasks without customers/guests watching your screen on  work
+or do your tasks without customers/guests watching your screen at work notice it
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://github.com/ARISTheGod/Privacy-HotKey/)-->
 
