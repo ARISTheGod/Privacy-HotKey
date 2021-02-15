@@ -3,6 +3,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![Version][version-shield]][version-url]
 [![Twitter][twitter-shield]][twitter-url]
 <!--[![License][license-shield]][license-url]-->
 # Windows Shortcut Privacy-HotKey
@@ -121,6 +122,8 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [downloads-shield]: https://img.shields.io/github/downloads/ARISTheGod/Privacy-HotKey/total.svg?color=success&style=for-the-badge
 [downloads-url]: https://github.com/ARISTheGod/Privacy-HotKey/releases
+[version-shield]: https://img.shields.io/github/v/tag/ARISTheGod/Privacy-HotKey.svg?label=version&style=for-the-badge
+[version-url]: https://github.com/ARISTheGod/Privacy-HotKey/releases
 [contributors-shield]: https://img.shields.io/github/contributors/ARISTheGod/Privacy-HotKey.svg?style=for-the-badge
 [contributors-url]: https://github.com/ARISTheGod/Privacy-HotKey/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/ARISTheGod/Privacy-HotKey.svg?style=for-the-badge
