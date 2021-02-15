@@ -1,3 +1,4 @@
+[![Downloads][downloads-shield]][downloads-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -118,6 +119,8 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[downloads-shield]: https://img.shields.io/github/downloads/ARISTheGod/Privacy-HotKey/total.svg?color=success&style=for-the-badge
+[downloads-url]: https://github.com/ARISTheGod/Privacy-HotKey/releases
 [contributors-shield]: https://img.shields.io/github/contributors/ARISTheGod/Privacy-HotKey.svg?style=for-the-badge
 [contributors-url]: https://github.com/ARISTheGod/Privacy-HotKey/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/ARISTheGod/Privacy-HotKey.svg?style=for-the-badge
