@@ -16,23 +16,6 @@ you can use are tools to play games at work or watch P*** or top secret stuff
 or do your tasks without customers/guests watching your screen at work
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://github.com/ARISTheGod/Privacy-HotKey/)-->
-
-## Installation
-
-Windows 32bit:
-
-```sh
-Download and run the file
-Privacy-Hotkey-1.0-32Bit.exe
-```
-
-Windows 64Bit:
-
-```sh
-Download and run the file
-Privacy-Hotkey-1.0-64Bit.exe
-```
-
 ## Usage example
 
 useful if you watch P*** or have Top-Secret stuff to do at Work
@@ -54,6 +37,38 @@ all windows Will be minimize and the sound will be muted and any playback Will s
 ```sh
 To Toggle Press F8
 ```
+
+## Installation
+
+Windows 32bit:
+
+```sh
+Download and run the file
+Privacy-Hotkey-1.0-32Bit.exe
+```
+
+Windows 64Bit:
+
+```sh
+Download and run the file
+Privacy-Hotkey-1.0-64Bit.exe
+```
+
+If you want this to Run At Startup > Tested On Windows 10
+##### 1. Open File Explorer      
+#####   2. navigate to what you want below    
+##### The All Users Startup Folder is located at the following path:
+   ```sh
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+   ```
+##### The Current User Startup Folder is located here:
+   ```sh
+C:\Users\[User Name]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+   ```
+###### example: C:\Users\aris\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+##### 3. Put the file *.exe in there
+##### make sure you're putting the right file in there 64bit or 32bit
+##### if you're not sure what you have put in the 32bit file
 
 ## Release History
 
