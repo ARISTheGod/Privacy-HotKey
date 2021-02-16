@@ -40,15 +40,15 @@ To Toggle Press F8
 
 ## Installation
 
-Windows 32bit:
-
+Windows 32bit:  
+[![Download-32][download-32-shield]][download-32-url]
 ```sh
 Download and run the file
 Privacy-Hotkey-1.0-32Bit.exe
 ```
 
-Windows 64Bit:
-
+Windows 64Bit:  
+[![Download-64][download-64-shield]][download-64-url]
 ```sh
 Download and run the file
 Privacy-Hotkey-1.0-64Bit.exe
@@ -147,6 +147,12 @@ Developer: Open-source software
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[download-32-shield]: https://img.shields.io/github/downloads-pre/ARISTheGod/Privacy-HotKey/1.0/Privacy-Hotkey-1.0-32Bit.exe.svg?color=brightgreen&logo=windows&style=for-the-badge
+[download-32-url]: https://github.com/ARISTheGod/Privacy-HotKey/releases/download/1.0/Privacy-Hotkey-1.0-32Bit.exe
+
+[download-64-shield]: https://img.shields.io/github/downloads-pre/ARISTheGod/Privacy-HotKey/1.0/Privacy-Hotkey-1.0-64Bit.exe.svg?color=brightgreen&logo=windows&style=for-the-badge
+[download-64-url]: https://github.com/ARISTheGod/Privacy-HotKey/releases/download/1.0/Privacy-Hotkey-1.0-64Bit.exe
+
 [downloads-shield]: https://img.shields.io/github/downloads/ARISTheGod/Privacy-HotKey/total.svg?color=success&style=for-the-badge
 [downloads-url]: https://github.com/ARISTheGod/Privacy-HotKey/releases
 [version-shield]: https://img.shields.io/github/v/tag/ARISTheGod/Privacy-HotKey.svg?label=version&style=for-the-badge
