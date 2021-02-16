@@ -37,7 +37,7 @@ Privacy-Hotkey-1.0-64Bit.exe
 
 useful if you watch P*** or have Top-Secret stuff to do at Work
 * if you watch p***:
-  * you don't want someone to come in your play knows what you doing
+  * you don't want someone to come in your place knows what you doing
 
 
 * if you have Top-Secret stuff to do at Work:
