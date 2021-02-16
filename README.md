@@ -5,7 +5,7 @@
 [![Issues][issues-shield]][issues-url]
 [![Version][version-shield]][version-url]
 [![Twitter][twitter-shield]][twitter-url]
-<!--[![License][license-shield]][license-url]-->
+[![License][license-shield]][license-url]
 # Windows Shortcut Privacy-HotKey
 > It Allows You To Minimize All Windows At Once And Muted You Playback-Sound and Stop-Playback-Media   
 > Tested On Windows 10
@@ -149,10 +149,8 @@ Developer: Open-source software
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [download-32-shield]: https://img.shields.io/github/downloads-pre/ARISTheGod/Privacy-HotKey/1.0/Privacy-Hotkey-1.0-32Bit.exe.svg?color=brightgreen&logo=windows&style=for-the-badge
 [download-32-url]: https://github.com/ARISTheGod/Privacy-HotKey/releases/download/1.0/Privacy-Hotkey-1.0-32Bit.exe
-
 [download-64-shield]: https://img.shields.io/github/downloads-pre/ARISTheGod/Privacy-HotKey/1.0/Privacy-Hotkey-1.0-64Bit.exe.svg?color=brightgreen&logo=windows&style=for-the-badge
 [download-64-url]: https://github.com/ARISTheGod/Privacy-HotKey/releases/download/1.0/Privacy-Hotkey-1.0-64Bit.exe
-
 [downloads-shield]: https://img.shields.io/github/downloads/ARISTheGod/Privacy-HotKey/total.svg?color=success&style=for-the-badge
 [downloads-url]: https://github.com/ARISTheGod/Privacy-HotKey/releases
 [version-shield]: https://img.shields.io/github/v/tag/ARISTheGod/Privacy-HotKey.svg?label=version&style=for-the-badge
@@ -165,7 +163,7 @@ Developer: Open-source software
 [stars-url]: https://github.com/ARISTheGod/Privacy-HotKey/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ARISTheGod/Privacy-HotKey.svg?style=for-the-badge
 [issues-url]: https://github.com/ARISTheGod/Privacy-HotKey/issues
-[license-shield]: https://img.shields.io/github/license/ARISTheGod/Privacy-HotKey.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=for-the-badge
 [license-url]: https://github.com/ARISTheGod/Privacy-HotKey/blob/master/LICENSE.txt
 [twitter-shield]: https://img.shields.io/twitter/follow/arisaris3030.svg?color=9cf&style=for-the-badge
 [twitter-url]: https://twitter.com/arisaris3030
