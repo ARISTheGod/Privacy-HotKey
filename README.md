@@ -165,6 +165,6 @@ Developer: Open-source software
 [issues-url]: https://github.com/ARISTheGod/Privacy-HotKey/issues
 [license-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=for-the-badge
 [license-url]: https://github.com/ARISTheGod/Privacy-HotKey/blob/master/LICENSE.txt
-[twitter-shield]: https://img.shields.io/twitter/follow/arisaris3030.svg?color=9cf&style=for-the-badge
+[twitter-shield]: https://img.shields.io/twitter/follow/ArisAristeidis.svg?color=9cf&style=for-the-badge
 [twitter-url]: https://twitter.com/ArisAristeidis
 [product-screenshot]: images/screenshot.png
