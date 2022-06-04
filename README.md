@@ -77,10 +77,10 @@ C:\Users\[User Name]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Start
 
 ## Meta
 
-ARIS – [@arisaris3030](https://twitter.com/arisaris3030)
+ARIS – [@ArisAristeidis](https://twitter.com/ArisAristeidis)
 
 [https://github.com/ARISTheGod/Privacy-HotKey/](https://github.com/ARISTheGod/Privacy-HotKey/)     
-[https://aris.tk/](https://aris.tk/)
+[https://aristeidisalexandridis.me/](https://aristeidisalexandridis.me/)
 
 ## Online Discussion
 
@@ -89,7 +89,7 @@ ARIS – [@arisaris3030](https://twitter.com/arisaris3030)
 
 ## License
 
-&copy; 2021 Aris A...
+&copy; 2021-2022 Aristeidis Alexandridis.
 
 For any part of this work for which the license is applicable, this work is licensed under the [Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/) license. See LICENSE.CC-BY-NC-ND-4.0.
 
