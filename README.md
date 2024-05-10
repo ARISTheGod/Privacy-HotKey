@@ -80,7 +80,7 @@ C:\Users\[User Name]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Start
 ARIS – [@ArisAristeidis](https://twitter.com/ArisAristeidis)
 
 [https://github.com/ARISTheGod/Privacy-HotKey/](https://github.com/ARISTheGod/Privacy-HotKey/)     
-[https://aristeidisalexandridis.me/](https://aristeidisalexandridis.me/)
+[https://aristeidisalexandridis.pro/](https://aristeidisalexandridis.pro/)
 
 ## Online Discussion
 
